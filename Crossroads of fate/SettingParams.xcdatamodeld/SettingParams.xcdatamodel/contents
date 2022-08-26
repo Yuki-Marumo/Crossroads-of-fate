@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21G83" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="SettingParams" representedClassName="SettingParams" syncable="YES" codeGenerationType="class">
+        <attribute name="guidanceDisplayTime" attributeType="Integer 16" defaultValueString="30" usesScalarValueType="YES"/>
+        <attribute name="interval" attributeType="Integer 16" defaultValueString="3" usesScalarValueType="YES"/>
+        <attribute name="isTRoad" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="isVoiceGuide" attributeType="Boolean" defaultValueString="YES" usesScalarValueType="YES"/>
+        <attribute name="tRoadInterval" attributeType="Integer 16" defaultValueString="3" usesScalarValueType="YES"/>
+        <attribute name="upProbability" attributeType="Integer 16" defaultValueString="90" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="SettingParams" positionX="-63" positionY="-18" width="128" height="119"/>
+    </elements>
+</model>
